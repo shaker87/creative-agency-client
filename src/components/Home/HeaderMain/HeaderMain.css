@@ -1,0 +1,10 @@
+.headerMain{
+    height: 500px;
+}
+.headerMain img{
+    height: 400px;
+}
+.text-brand{
+    color: #111430;
+    font-weight:bold;
+}

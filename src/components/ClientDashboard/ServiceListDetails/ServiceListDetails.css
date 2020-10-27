@@ -1,0 +1,14 @@
+.service-list-card{
+ height: 200px;
+ padding: 10px;
+ border-radius: 20px;
+}
+.service-card-img img{
+    width: 50px;
+}
+.status h6{
+    background-color: #C6FFE0;
+    color: green;
+    padding: 10px;
+    border-radius: 5px;
+}

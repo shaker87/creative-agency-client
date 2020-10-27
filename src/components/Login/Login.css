@@ -1,0 +1,18 @@
+.google-icon img{
+    width: 30px;
+    height: 30px;
+}
+.btn-style{
+    width: 400px;
+    height: 40px;
+    margin: 0px auto;
+    border-radius: 40px;
+}
+
+
+.login-form{
+    width: 50%;
+    margin: 40px auto;
+    border: 1px solid black;
+    padding: 100px 20px;
+}

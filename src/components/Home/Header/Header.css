@@ -1,0 +1,8 @@
+.header {
+    width: 100%;
+    height: 600px;
+    box-sizing: content-box;
+    position: relative;
+    background: #FBD062;
+    clip-path: polygon(0% 0%, 100% 0, 100% 88%, 0 99%, 0% 100%);
+  }
