@@ -3,18 +3,16 @@
 
 Live view [https://creative-agency-2de70.firebaseapp.com](https://creative-agency-2de70.firebaseapp.com) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ### `Features`
 
 Public visitor:
-•	View Home Page
-•	Add activity, view activity-list and remove activity.
-•	Login / Registration 
+-	View Home Page
+-	Add activity, view activity-list and remove activity.
+-	Login / Registration 
 Administrator:
-•	Add/Edit activity-activity details and activity images etc.
-•	View volunteer list and add new admin.
+-	Add/Edit activity-activity details and activity images etc.
+-	View volunteer list and add new admin.
 Tools: React, Node, Express, Mongodb, Firebase, Heroku, Bootstrap, Material UI design.
 
 
