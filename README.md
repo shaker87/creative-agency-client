@@ -8,14 +8,16 @@ Open [https://creative-agency-2de70.firebaseapp.com](https://creative-agency-2de
 
 ##### Public visitor:
 -	View Home Page
--	Add activity
-- View activity-list
-- Remove activity.
+- Create order.
+- View order-list.
+- Add review.
+- Create new order.
+- Check status.
 -	Login / Registration 
 
 ##### Administrator:
 -	Add/Edit activity-activity details and activity images etc.
--	View volunteer list.
+-	View ordered details.
 - Add new admin.
 
 ### `Technology` 
