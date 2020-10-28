@@ -15,7 +15,7 @@ Open [https://creative-agency-2de70.firebaseapp.com](https://creative-agency-2de
 
 ##### Administrator:
 -	Add/Edit activity-activity details and activity images etc.
--	View volunteer list 
+-	View volunteer list.
 - Add new admin.
 
 ### `Technology` 
