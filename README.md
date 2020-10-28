@@ -1,7 +1,7 @@
 
 ## Creative Agency Web Application.
 
-Live view [in any browser](https://creative-agency-2de70.firebaseapp.com) to view it in the browser.
+Live view [https://creative-agency-2de70.firebaseapp.com](https://creative-agency-2de70.firebaseapp.com) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
