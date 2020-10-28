@@ -10,9 +10,11 @@ Public visitor:
 -	View Home Page
 -	Add activity, view activity-list and remove activity.
 -	Login / Registration 
+
 Administrator:
 -	Add/Edit activity-activity details and activity images etc.
 -	View volunteer list and add new admin.
+
 Tools: React, Node, Express, Mongodb, Firebase, Heroku, Bootstrap, Material UI design.
 
 
