@@ -6,16 +6,26 @@ Live view [https://creative-agency-2de70.firebaseapp.com](https://creative-agenc
 
 ### `Features`
 
-Public visitor:
+#####Public visitor:
 -	View Home Page
 -	Add activity, view activity-list and remove activity.
 -	Login / Registration 
 
-Administrator:
+#####Administrator:
 -	Add/Edit activity-activity details and activity images etc.
--	View volunteer list and add new admin.
+-	View volunteer list 
+- Add new admin.
 
-Tools: React, Node, Express, Mongodb, Firebase, Heroku, Bootstrap, Material UI design.
+### `Technology` 
+- React
+- React Router
+- Node
+- Express
+- Mongodb
+- Firebase
+- Heroku
+- Bootstrap
+- Material UI design.
 
 
 ### `npm run build`
