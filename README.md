@@ -21,8 +21,6 @@ Open [https://creative-agency-2de70.firebaseapp.com](https://creative-agency-2de
 - View all orders.
 - Add new admin.
 
-- Add new admin.
-
 ### `Technology` 
 - React
 - React Router
