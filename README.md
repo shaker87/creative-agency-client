@@ -6,10 +6,17 @@ Live view [https://creative-agency-2de70.firebaseapp.com](https://creative-agenc
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
+### `Features`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Public visitor:
+•	View Home Page
+•	Add activity, view activity-list and remove activity.
+•	Login / Registration 
+Administrator:
+•	Add/Edit activity-activity details and activity images etc.
+•	View volunteer list and add new admin.
+Tools: React, Node, Express, Mongodb, Firebase, Heroku, Bootstrap, Material UI design.
+
 
 ### `npm run build`
 
