@@ -1,17 +1,17 @@
 
 ## Creative Agency Web Application.
 
-Live view [https://creative-agency-2de70.firebaseapp.com](https://creative-agency-2de70.firebaseapp.com) to view it in the browser.
+Open [https://creative-agency-2de70.firebaseapp.com](https://creative-agency-2de70.firebaseapp.com) to view it in the browser.
 
 
 ### `Features`
 
-#####Public visitor:
+##### Public visitor:
 -	View Home Page
 -	Add activity, view activity-list and remove activity.
 -	Login / Registration 
 
-#####Administrator:
+##### Administrator:
 -	Add/Edit activity-activity details and activity images etc.
 -	View volunteer list 
 - Add new admin.
